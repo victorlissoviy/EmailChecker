@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiKeyReader/ApiKeyReader.iml" filepath="$PROJECT_DIR$/ApiKeyReader/ApiKeyReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmailCheck/EmailCheck.iml" filepath="$PROJECT_DIR$/EmailCheck/EmailCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmailChecker.iml" filepath="$PROJECT_DIR$/EmailChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logger/Logger.iml" filepath="$PROJECT_DIR$/Logger/Logger.iml" />
